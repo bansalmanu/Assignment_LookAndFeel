@@ -92,6 +92,9 @@ html {
   .td-id {
     display: inline-block;
   }
+  #p-id {
+    margin-top: 52px;
+  }
 }
 .navbar-nav li a:hover {
   color: #1abc9c !important;
