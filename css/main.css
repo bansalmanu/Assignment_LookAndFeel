@@ -85,7 +85,11 @@ html {
   letter-spacing: 5px;
 }
 
-
+@media only screen and (max-width: 600px) {
+  .td-id {
+    display: inline-block;
+  }
+}
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
