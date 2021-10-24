@@ -95,6 +95,17 @@ html {
   #p-id {
     margin-top: 52px;
   }
+  #img-id{
+    margin-bottom: 40px;
+  }
+  .bg-3{
+    padding-top: 90px;
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+  #h2-id{
+    margin-top:40px;
+  }
 }
 .navbar-nav li a:hover {
   color: #1abc9c !important;
